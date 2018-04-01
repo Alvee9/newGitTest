@@ -3,3 +3,7 @@ ok
 this file is not yet tracked!!
 
 is anything changed in the master??
+
+no..
+
+but what if I don't commit??
